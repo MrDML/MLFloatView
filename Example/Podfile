@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MLFloatView_Example' do
+  pod 'MLFloatView', :path => '../'
+
+  target 'MLFloatView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
