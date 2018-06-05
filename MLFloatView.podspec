@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   Provide animation and animation without the way to display, it can quickly create simple and practical.
                        DESC
 
-  s.homepage         = 'https://github.com/DML/MLFloatView'
+  s.homepage         = 'https://github.com/MrDML/MLFloatView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DML' => 'dml1630@163.com' }
-  s.source           = { :git => 'https://github.com/DML/MLFloatView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MrDML/MLFloatView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
