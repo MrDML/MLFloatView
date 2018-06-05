@@ -1,0 +1,16 @@
+PODS:
+  - MLFloatView (0.1.0)
+
+DEPENDENCIES:
+  - MLFloatView (from `../`)
+
+EXTERNAL SOURCES:
+  MLFloatView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLFloatView: 676441b116c3706c50bf07762e28722a41db3f2f
+
+PODFILE CHECKSUM: f1d8e4df82eb27453f76952ab6f1972d3c2ba70b
+
+COCOAPODS: 1.5.0

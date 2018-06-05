@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MLFloatView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MLFloatView.'
+  s.version          = '0.1.1'
+  s.summary          = 'MLFloatView Provides an animated and no animated way to display'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  Provide animation and animation without the way to display, it can quickly create simple and practical.
                        DESC
 
   s.homepage         = 'https://github.com/DML/MLFloatView'

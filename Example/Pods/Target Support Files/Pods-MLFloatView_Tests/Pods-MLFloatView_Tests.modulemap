@@ -1,0 +1,6 @@
+framework module Pods_MLFloatView_Tests {
+  umbrella header "Pods-MLFloatView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

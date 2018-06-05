@@ -1,0 +1,6 @@
+framework module MLFloatView {
+  umbrella header "MLFloatView-umbrella.h"
+
+  export *
+  module * { export * }
+}
