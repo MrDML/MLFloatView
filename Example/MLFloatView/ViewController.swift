@@ -33,6 +33,11 @@ class ViewController: UIViewController,MLFloatViewDelegate {
         floatView.isHidden = true
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        floatView.isHidden = false
+    }
+    
     // 设置frame
     func initializeStyleOne(){
         // 在初始化之前设置一些默认值
