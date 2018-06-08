@@ -26,7 +26,7 @@ pod 'MLFloatView'
 ```
 ## Example Use
 
-```ruby
+```Objective-C
 // 设置frame
 func initializeStyleOne(){
 // 在初始化之前设置一些默认值
